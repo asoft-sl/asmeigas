@@ -216,7 +216,16 @@
     },
     {
         "seccion": "Desayunos",
-        "platos": []
+        "platos": [
+            {
+                "nombre": "Sándwich mixto",
+                "precio": "5,00€",
+                "alergenos": [
+                    "gluten",
+                    "lacteos"
+                ]
+            }
+        ]
     },
     {
         "seccion": "Tostadas",
@@ -328,16 +337,8 @@
         ]
     },
     {
-        "seccion": "",
+        "seccion": "Bolleria",
         "platos": [
-            {
-                "nombre": "Sándwich mixto",
-                "precio": "5,00€",
-                "alergenos": [
-                    "gluten",
-                    "lacteos"
-                ]
-            },
             {
                 "nombre": "Cruasán",
                 "precio": "2,00€",
