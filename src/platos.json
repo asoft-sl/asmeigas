@@ -211,9 +211,19 @@
                     "huevo",
                     "mostaza"
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "seccion": "Desayunos",
+        "platos": []
+    },
+    {
+        "seccion": "Tostadas",
+        "platos": [
             {
                 "nombre": "Tosta de mermelada y mantequilla",
+                "precio": "3,20€",
                 "alergenos": [
                     "gluten",
                     "lacteos"
@@ -221,12 +231,14 @@
             },
             {
                 "nombre": "Tosta pan tumaca",
+                "precio": "5,00€",
                 "alergenos": [
                     "gluten"
                 ]
             },
             {
                 "nombre": "Tosta guacamole, salmon y huevo",
+                "precio": "7,00€",
                 "alergenos": [
                     "gluten",
                     "pescado",
@@ -234,7 +246,8 @@
                 ]
             },
             {
-                "nombre": "Tosta beicon, tomate y huevo",
+                "nombre": "Tosta beicon, tomate y huevo poché",
+                "precio": "8,00€",
                 "alergenos": [
                     "gluten",
                     "huevo"
@@ -242,26 +255,68 @@
             },
             {
                 "nombre": "Tosta rulo de cabra",
+                "precio": "8,00€",
+                "descripcion": "Mermelada de pimientos, cebolla caramelizada y cebolleta",
                 "alergenos": [
                     "gluten",
                     "lacteos"
+                ]
+            },
+            {
+                "nombre": "Tosta caprese",
+                "precio": "6,00€",
+                "descripcion": "Tomate, mozarella y albahaca",
+                "alergenos": [
+                    "gluten",
+                    "lacteos"
+                ]
+            },
+            {
+                "nombre": "Tosta de ventresca",
+                "precio": "8,00€",
+                "alergenos": [
+                    "gluten",
+                    "pescado"
                 ]
             }
         ]
     },
     {
-        "seccion": "Desayunos",
+        "seccion": "Tarta",
         "platos": [
             {
-                "nombre": "Tortitas",
+                "nombre": "Tarta de santiago artesana",
+                "precio": "6,50€",
                 "alergenos": [
                     "gluten",
                     "lacteos",
                     "huevo"
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "seccion": "Tortitas",
+        "platos": [
+            {
+                "nombre": "Tortitas",
+                "descripcion": "Con platano, fresas, nutela o caramelo",
+                "precio": "7,00€",
+                "alergenos": [
+                    "gluten",
+                    "lacteos",
+                    "huevo"
+                ]
+            }
+        ]
+    },
+    {
+        "seccion": "Bowl de cereales",
+        "platos": [
             {
                 "nombre": "Bowl de cereales",
+                "descripcion": "Yogur griego, granola, miel, plátano y fresas",
+                "precio": "8,50€",
                 "alergenos": [
                     "gluten",
                     "lacteos",
@@ -269,16 +324,46 @@
                     "soja",
                     "mostaza"
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "seccion": "A la plancha",
+        "platos": [
             {
-                "nombre": "Sandwich mixto",
+                "nombre": "Sándwich mixto",
+                "precio": "5,00€",
                 "alergenos": [
                     "gluten",
                     "lacteos"
                 ]
             },
             {
+                "nombre": "Cruasán de mantequilla o a la plancha con mermelada",
+                "precio": "3,50€",
+                "alergenos": [
+                    "gluten",
+                    "lacteos",
+                    "huevo"
+                ]
+            },
+            {
+                "nombre": "Cruasán mixto a la plancha",
+                "precio": "4,00€",
+                "alergenos": [
+                    "gluten",
+                    "lacteos",
+                    "huevo"
+                ]
+            }
+        ]
+    },
+    {
+        "seccion": "Bolleria",
+        "platos": [
+            {
                 "nombre": "Cruasán",
+                "precio": "2,00€",
                 "alergenos": [
                     "gluten",
                     "lacteos",
@@ -287,18 +372,67 @@
             },
             {
                 "nombre": "Napolitana",
+                "precio": "2,00€",
                 "alergenos": [
                     "gluten",
                     "lacteos",
                     "huevo"
                 ]
+            }
+        ]
+    },
+    {
+        "seccion": "Cafés",
+        "subtitulo": "Brasilia medalla de oro 100% arabica",
+        "platos": [
+            {
+                "nombre": "Solo",
+                "precio": "1,30€"
             },
             {
-                "nombre": "Cruasán mixto",
+                "nombre": "Americano",
+                "precio": "1,50€"
+            },
+            {
+                "nombre": "Cortado",
+                "precio": "1,30€",
                 "alergenos": [
-                    "gluten",
-                    "lacteos",
-                    "huevo"
+                    "lacteos"
+                ]
+            },
+            {
+                "nombre": "Flat White",
+                "precio": "1,80€",
+                "alergenos": [
+                    "lacteos"
+                ]
+            },
+            {
+                "nombre": "Mocha Latte",
+                "precio": "2,00€",
+                "alergenos": [
+                    "lacteos"
+                ]
+            },
+            {
+                "nombre": "Capuchino",
+                "precio": "2,20€",
+                "alergenos": [
+                    "lacteos"
+                ]
+            },
+            {
+                "nombre": "Iced Coffee",
+                "precio": "2,00€",
+                "alergenos": [
+                    "lacteos"
+                ]
+            },
+            {
+                "nombre": "Colacao",
+                "precio": "1,80€",
+                "alergenos": [
+                    "lacteos"
                 ]
             }
         ]

@@ -20,6 +20,7 @@ function App() {
             platos.map((seccion, i) => {
               return <div key={i}>
                 <p className='text-center text-xl font-semibold '>{seccion.seccion}</p>
+                <p className='text-sm text-center text-zinc-500'>{seccion.subtitulo}</p>
                 <div className='mt-4 bg-zinc-100 dark:bg-zinc-700 rounded-xl'>
                   {
                     seccion.platos.map((plato, i) => {
