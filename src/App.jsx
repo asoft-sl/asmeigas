@@ -15,7 +15,7 @@ function App() {
           </div>
         </div>
 
-        <div className='mt-6 px-4 space-y-6'>
+        <div className='mt-6 px-4 space-y-6 pb-20'>
           {
             platos.map((seccion, i) => {
               return <div key={i}>
