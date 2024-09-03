@@ -247,7 +247,7 @@
             },
             {
                 "nombre": "Tosta beicon, tomate y huevo poché",
-                "precio": "8,00€",
+                "precio": "7,00€",
                 "alergenos": [
                     "gluten",
                     "huevo"
@@ -328,7 +328,7 @@
         ]
     },
     {
-        "seccion": "A la plancha",
+        "seccion": "",
         "platos": [
             {
                 "nombre": "Sándwich mixto",
@@ -339,7 +339,16 @@
                 ]
             },
             {
-                "nombre": "Cruasán de mantequilla o a la plancha con mermelada",
+                "nombre": "Cruasán",
+                "precio": "2,00€",
+                "alergenos": [
+                    "gluten",
+                    "lacteos",
+                    "huevo"
+                ]
+            },
+            {
+                "nombre": " - A la plancha",
                 "precio": "3,50€",
                 "alergenos": [
                     "gluten",
@@ -348,22 +357,8 @@
                 ]
             },
             {
-                "nombre": "Cruasán mixto a la plancha",
+                "nombre": " - Mixto",
                 "precio": "4,00€",
-                "alergenos": [
-                    "gluten",
-                    "lacteos",
-                    "huevo"
-                ]
-            }
-        ]
-    },
-    {
-        "seccion": "Bolleria",
-        "platos": [
-            {
-                "nombre": "Cruasán",
-                "precio": "2,00€",
                 "alergenos": [
                     "gluten",
                     "lacteos",
