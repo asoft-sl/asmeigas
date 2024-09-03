@@ -1,0 +1,306 @@
+[
+    {
+        "seccion": "Tablas",
+        "platos": [
+            {
+                "nombre": "Tabla mixta de ibéricos y quesos",
+                "precio": "19,50€",
+                "alergenos": [
+                    "lacteos",
+                    "cascara"
+                ]
+            },
+            {
+                "nombre": "Tabla de quesos gallegos",
+                "precio": "16,00€",
+                "alergenos": [
+                    "lacteos",
+                    "cascara"
+                ]
+            },
+            {
+                "nombre": "Tabla de ibéricos",
+                "precio": "13,50€",
+                "alergenos": [
+                    "cascara"
+                ]
+            },
+            {
+                "nombre": "Tabla de jamón",
+                "precio": "16,00€",
+                "alergenos": [
+                    "cascara"
+                ]
+            }
+        ]
+    },
+    {
+        "seccion": "Tapas",
+        "platos": [
+            {
+                "nombre": "Langostinos Crujientes",
+                "precio": "12,00€",
+                "alergenos": [
+                    "crustaceos",
+                    "gluten"
+                ]
+            },
+            {
+                "nombre": "Pimientos de Padrón",
+                "precio": "6,00€"
+            },
+            {
+                "nombre": "Ración de patatas",
+                "precio": "4,00€"
+            },
+            {
+                "nombre": "Patatas 3 salsas",
+                "precio": "6,00€",
+                "descripcion": "Patatas con salsa alioli, mayonesa de curry y ketchup",
+                "alergenos": [
+                    "lacteos",
+                    "huevo"
+                ]
+            },
+            {
+                "nombre": "Patatas beicon y queso",
+                "precio": "6,50€",
+                "alergenos": [
+                    "lacteos"
+                ]
+            }
+        ]
+    },
+    {
+        "seccion": "Hamburguesas",
+        "platos": [
+            {
+                "nombre": "Hamburguesa de vaca vieja",
+                "precio": "12,50€",
+                "descripcion": "Hamburguesa de vaca vieja con pimineto asado confitado, queso rulo de cabra, cebolla frita y rúcula",
+                "alergenos": [
+                    "gluten",
+                    "lacteos"
+                ]
+            },
+            {
+                "nombre": "Hambuerguesa de ternera gallega",
+                "precio": "9,50€",
+                "descripcion": "Brotes tiernos, vinagreta de manzana y queso azul",
+                "alergenos": [
+                    "gluten",
+                    "lacteos"
+                ]
+            },
+            {
+                "nombre": "Smash burger",
+                "precio": "12,50€",
+                "descripcion": "Doble carne, queso cheddar, cebolla crujiente y mermelada de pimiento asado",
+                "alergenos": [
+                    "gluten",
+                    "lacteos"
+                ]
+            },
+            {
+                "nombre": "Hamburguesa de pollo",
+                "precio": "10,00€",
+                "descripcion": "Mayonesa de curry, queso cheddar, cebolla crujiente y mermelada de pimiento asado",
+                "alergenos": [
+                    "gluten",
+                    "lacteos",
+                    "huevo"
+                ]
+            }
+        ]
+    },
+    {
+        "seccion": "Bocadillos",
+        "platos": [
+            {
+                "nombre": "Pollo con tomatitos asados",
+                "precio": "6,50€",
+                "alergenos": [
+                    "gluten"
+                ]
+            },
+            {
+                "nombre": "Chorizo, Huevo frito y Pimientos de Padrón",
+                "precio": "6,50€",
+                "alergenos": [
+                    "gluten",
+                    "huevo"
+                ]
+            },
+            {
+                "nombre": "Sandwich especial As Meigas",
+                "precio": "6,20€",
+                "descripcion": "Atún y vegetales",
+                "alergenos": [
+                    "gluten",
+                    "pescado",
+                    "lacteos"
+                ]
+            },
+            {
+                "nombre": "Carrilleras al vino tinto",
+                "precio": "11,50€",
+                "alergenos": [
+                    "gluten",
+                    "lacteos",
+                    "sulfitos"
+                ]
+            },
+            {
+                "nombre": "Jamón asado con queso",
+                "precio": "7,00€",
+                "alergenos": [
+                    "gluten",
+                    "lacteos",
+                    "sulfitos"
+                ]
+            }
+        ]
+    },
+    {
+        "seccion": "Ensaladas",
+        "platos": [
+            {
+                "nombre": "As Meigas",
+                "precio": "13,50€",
+                "descripcion": "Tomates azul, Albahaca y Queso burrata",
+                "alergenos": [
+                    "lacteos"
+                ]
+            },
+            {
+                "nombre": "Ensalada de lechuga, tomate y cebolla",
+                "precio": "5,00€",
+                "alergenos": [
+                    "lacteos"
+                ]
+            }
+        ]
+    },
+    {
+        "seccion": "Tostas",
+        "platos": [
+            {
+                "nombre": "Tosta de Foie de pato",
+                "precio": "12,00€",
+                "descripcion": "Manzana asada y Modena PX",
+                "alergenos": [
+                    "gluten"
+                ]
+            },
+            {
+                "nombre": "Tosta de bacalao ahumado escalivada",
+                "precio": "11,50€",
+                "descripcion": "Berengena, pimiento, cebolla, ajo frito y aceite de ajo",
+                "alergenos": [
+                    "gluten",
+                    "pescado"
+                ]
+            },
+            {
+                "nombre": "Tosta de ventresca de atún",
+                "precio": "8,00€",
+                "descripcion": "Pimientos de piquillo y salsa tártara",
+                "alergenos": [
+                    "gluten",
+                    "pescado",
+                    "huevo",
+                    "mostaza"
+                ]
+            },
+            {
+                "nombre": "Tosta de mermelada y mantequilla",
+                "alergenos": [
+                    "gluten",
+                    "lacteos"
+                ]
+            },
+            {
+                "nombre": "Tosta pan tumaca",
+                "alergenos": [
+                    "gluten"
+                ]
+            },
+            {
+                "nombre": "Tosta guacamole, salmon y huevo",
+                "alergenos": [
+                    "gluten",
+                    "pescado",
+                    "huevo"
+                ]
+            },
+            {
+                "nombre": "Tosta beicon, tomate y huevo",
+                "alergenos": [
+                    "gluten",
+                    "huevo"
+                ]
+            },
+            {
+                "nombre": "Tosta rulo de cabra",
+                "alergenos": [
+                    "gluten",
+                    "lacteos"
+                ]
+            }
+        ]
+    },
+    {
+        "seccion": "Desayunos",
+        "platos": [
+            {
+                "nombre": "Tortitas",
+                "alergenos": [
+                    "gluten",
+                    "lacteos",
+                    "huevo"
+                ]
+            },
+            {
+                "nombre": "Bowl de cereales",
+                "alergenos": [
+                    "gluten",
+                    "lacteos",
+                    "cascara",
+                    "soja",
+                    "mostaza"
+                ]
+            },
+            {
+                "nombre": "Sandwich mixto",
+                "alergenos": [
+                    "gluten",
+                    "lacteos"
+                ]
+            },
+            {
+                "nombre": "Cruasán",
+                "alergenos": [
+                    "gluten",
+                    "lacteos",
+                    "huevo"
+                ]
+            },
+            {
+                "nombre": "Napolitana",
+                "alergenos": [
+                    "gluten",
+                    "lacteos",
+                    "huevo"
+                ]
+            },
+            {
+                "nombre": "Cruasán mixto",
+                "alergenos": [
+                    "gluten",
+                    "lacteos",
+                    "huevo"
+                ]
+            }
+        ]
+    }
+]
