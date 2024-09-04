@@ -219,7 +219,7 @@
         "platos": [
             {
                 "nombre": "Sándwich mixto",
-                "precio": "5,00€",
+                "precio": "3,50€",
                 "alergenos": [
                     "gluten",
                     "lacteos"
