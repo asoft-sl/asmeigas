@@ -65,6 +65,13 @@
                 "precio": "6,00€"
             },
             {
+                "nombre": "Calamares Fritos",
+                "precio": "10,00€",
+                "alergenos": [
+                    "gluten"
+                ]
+            },
+            {
                 "nombre": "Ración de patatas",
                 "precio": "4,00€"
             },
@@ -251,7 +258,7 @@
         "platos": [
             {
                 "nombre": "Sándwich mixto",
-                "precio": "5,00€",
+                "precio": "3,50€",
                 "alergenos": [
                     "gluten",
                     "lacteos"
