@@ -35,13 +35,28 @@
         ]
     },
     {
-        "seccion": "Tapas",
+        "seccion": "PARA PICAR",
         "platos": [
             {
                 "nombre": "Langostinos Crujientes",
                 "precio": "12,00€",
                 "alergenos": [
                     "crustaceos",
+                    "gluten"
+                ]
+            },
+            {
+                "nombre": "Pulpo",
+                "precio": "20,00€",
+                "alergenos": [
+                    "moluscos"
+                ]
+            },
+            {
+                "nombre": "Chipirones",
+                "precio": "10,00€",
+                "alergenos": [
+                    "moluscos",
                     "gluten"
                 ]
             },
@@ -84,7 +99,7 @@
                 ]
             },
             {
-                "nombre": "Hambuerguesa de ternera gallega",
+                "nombre": "Hamburguesa de ternera gallega",
                 "precio": "9,50€",
                 "descripcion": "Brotes tiernos, vinagreta de manzana y queso azul",
                 "alergenos": [
@@ -116,6 +131,14 @@
     {
         "seccion": "Bocadillos",
         "platos": [
+            {
+                "nombre": "Bocadillo de calamares",
+                "precio": "7,00€",
+                "alergenos": [
+                    "gluten",
+                    "moluscos"
+                ]
+            },
             {
                 "nombre": "Pollo con tomatitos asados",
                 "precio": "6,50€",
@@ -211,6 +234,15 @@
                     "huevo",
                     "mostaza"
                 ]
+            },
+            {
+                "nombre": "Tosta de pulpo con queso San Simón",
+                "precio": "13,00€",
+                "alergenos": [
+                    "gluten",
+                    "moluscos",
+                    "lacteos"
+                ]
             }
         ]
     },
@@ -224,12 +256,7 @@
                     "gluten",
                     "lacteos"
                 ]
-            }
-        ]
-    },
-    {
-        "seccion": "Tostadas",
-        "platos": [
+            },
             {
                 "nombre": "Tosta de mermelada y mantequilla",
                 "precio": "3,20€",
@@ -287,12 +314,7 @@
                     "gluten",
                     "pescado"
                 ]
-            }
-        ]
-    },
-    {
-        "seccion": "Tarta",
-        "platos": [
+            },
             {
                 "nombre": "Tarta de santiago artesana",
                 "precio": "6,50€",
