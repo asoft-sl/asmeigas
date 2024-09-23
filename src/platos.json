@@ -65,13 +65,6 @@
                 "precio": "6,00€"
             },
             {
-                "nombre": "Calamares Fritos",
-                "precio": "10,00€",
-                "alergenos": [
-                    "gluten"
-                ]
-            },
-            {
                 "nombre": "Ración de patatas",
                 "precio": "4,00€"
             },
